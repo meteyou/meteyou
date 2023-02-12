@@ -32,6 +32,6 @@ My name is Stefan Dej, and I'm a software developer by day ☼ and an Open Sourc
 <a href="https://github.com/mainsail-crew/mainsail">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainsail-crew&repo=mainsail&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/mainsail-crew/mainsailos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainsail-crew&repo=mainsailos&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" />
+<a href="https://github.com/meteyou/KlipperMisc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meteyou&repo=KlipperMisc&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" />
 </a>
