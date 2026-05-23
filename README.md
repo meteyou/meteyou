@@ -19,13 +19,15 @@ I build tools for the 3D printing community, develop self-hosted AI agents, and 
 
 ## 🔧 Tech I work with
 
+![macOS](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=white&color=orange)
 ![Vue.js](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=orange)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=orange)
 ![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=orange)
 ![Laravel](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=orange)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=orange)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=orange)
-![Klipper](https://img.shields.io/badge/Klipper-informational?style=flat&logo=klipper&logoColor=white&color=orange)
+
 
 ---
 
@@ -34,4 +36,5 @@ I build tools for the 3D printing community, develop self-hosted AI agents, and 
 If Mainsail makes your prints better, consider buying me a coffee:
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/meteyou)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/meteyou)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/mainsail)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Support-orange?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mainsail-crew)
