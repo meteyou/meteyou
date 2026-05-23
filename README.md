@@ -1,37 +1,37 @@
-## Hi, folks! 👋
-My name is Stefan Dej, and I'm a software developer by day ☼ and an Open Source Maintainer by night ☾.
+## Hi, I'm Stefan 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=meteyou.meteyou)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109553229476700357?domain=https%3A%2F%2Ffosstodon.org%2F)
+Software developer by day, open source maintainer by night.  
+I build tools for the 3D printing community, develop self-hosted AI agents, and run more services at home than I probably should.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Console-iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnubash&logoColor=white&color=orange)
-![](https://img.shields.io/badge/SBC-Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=orange)
+📍 Carinthia, Austria · [fosstodon.org/@meteyou](https://fosstodon.org/@meteyou) · [@meteyou.bsky.social](https://bsky.app/profile/meteyou.bsky.social)
 
-## &#x1f4c8; GitHub Stats
+---
 
-<a href="https://github.com/meteyou/meteyou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteyou&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/meteyou/meteyou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meteyou&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" alt="Stefan's GitHub Stats" />
-</a>
+## 🚀 Projects I maintain
 
-## 🗂️ Highlight Projects
+| Project                                                                 | Description                                                         | Docs                                                                   |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail)     | The web interface for Klipper, built with the 3D printing community | [docs.mainsail.xyz](https://docs.mainsail.xyz/)                        |
+| [mainsail-crew/MainsailOS](https://github.com/mainsail-crew/MainsailOS) | OS image for SBCs with Klipper and Mainsail ready to run            | [docs.mainsail.xyz/mainsailos/](https://docs.mainsail.xyz/mainsailos/) |
+| [meteyou/axiom](https://github.com/meteyou/axiom)                       | Your personal agent. Self-hosted, file-first, extensible.           | [axiom.meteyou.tech](https://axiom.meteyou.tech/)                      |
 
-<a href="https://github.com/mainsail-crew/mainsail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mainsail-crew&repo=mainsail&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/meteyou/KlipperMisc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meteyou&repo=KlipperMisc&title_color=ffffff&text_color=c9cacc&icon_color=dc6601&bg_color=1d1f21" />
-</a>
+---
+
+## 🔧 Tech I work with
+
+![Vue.js](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=orange)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=orange)
+![Laravel](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=orange)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=orange)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=orange)
+![Klipper](https://img.shields.io/badge/Klipper-informational?style=flat&logo=klipper&logoColor=white&color=orange)
+
+---
+
+## ☕ Support my work
+
+If Mainsail makes your prints better, consider buying me a coffee:
+
+[![Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/meteyou)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/meteyou)
